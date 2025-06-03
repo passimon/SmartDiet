@@ -8,5 +8,3 @@ Features:
 * Receive personalized feedback to improve nutrition
 * Learn about nutrition, sport, and recovery
 * Browse a large dataset of recipes
-
-URL: https://smartdieting.netlify.app/
