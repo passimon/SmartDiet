@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "test",
+    "slug": "test",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "assetBundlePatterns": [
+      "./assets/*"
+    ],
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.passimon.test"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c491bf44-e027-4aee-977e-51c20d50b716"
+      }
+    }
+  }
+}
