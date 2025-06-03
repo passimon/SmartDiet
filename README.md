@@ -8,3 +8,6 @@ Features:
 * Receive personalized feedback to improve nutrition
 * Learn about nutrition, sport, and recovery
 * Browse a large dataset of recipes
+
+Website: https://passimon-test--nk6nvgk9s1.expo.app/
+(To quickly access mobile view, use the shortcut Ctrl + Shift + M (Windows/Linux) or Cmd + Shift + M (Mac))
