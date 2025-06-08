@@ -9,5 +9,5 @@ Features:
 * Learn about nutrition, sport, and recovery
 * Browse a large dataset of recipes
 
-Website: https://passimon-test--nk6nvgk9s1.expo.app/
+Website: https://smartdiet--8p02056r17.expo.app/
 (To quickly access mobile view, use the shortcut Ctrl + Shift + M (Windows/Linux) or Cmd + Shift + M (Mac))
