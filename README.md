@@ -72,17 +72,6 @@ The bottom tab navigator (`MainTabs`) holds the first five screens. A native sta
    # or
    yarn install
    ```
-
-3. Install CocoaPods (iOS only)  
-   ```bash
-   cd ios && pod install && cd ..
-   ```
-
-4. Link native dependencies (if not using autolinking)  
-   ```bash
-   npx react-native link
-   ```
-
 ---
 
 ## Configuration
