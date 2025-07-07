@@ -1,7 +1,6 @@
 ![Background Image](https://github.com/passimon/SmartDiet/blob/main/background.jpeg)
 
-Website: https://smartdiet--8p02056r17.expo.app/
-(To quickly access mobile view, use the shortcut Ctrl + Shift + M (Windows/Linux) or Cmd + Shift + M (Mac))
+Website: https://smartdiet--8p02056r17.expo.app/ (To quickly access mobile view, use the shortcut Ctrl + Shift + M (Windows/Linux) or Cmd + Shift + M (Mac))
 
 
 # SmartDiet React Native App
@@ -63,8 +62,8 @@ The bottom tab navigator (`MainTabs`) holds the first five screens. A native sta
 
 1. Clone the repo  
    ```bash
-   git clone https://github.com/your-username/smartdiet-app.git
-   cd smartdiet-app
+   git clone https://github.com/passimon/smartdiet.git
+   cd smartdiet
    ```
 
 2. Install dependencies  
